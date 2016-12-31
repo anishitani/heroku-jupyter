@@ -1,0 +1,10 @@
+{
+  "name": "Heroku Jupyter",
+  "description": "IPython Notebook packaged for Heroku",
+  "repository": "https://github.com/anishitani/heroku-ipython",
+  "env": {
+    "IPYTHON_PASSWORD": {
+      "required": false
+    }
+  }
+}
