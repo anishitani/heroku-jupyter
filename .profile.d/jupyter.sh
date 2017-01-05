@@ -1,3 +1,5 @@
+#!/bin/bash
+
 source '/app/.profile.d/python.sh'
 
 if [[ -n "${JUPYTER_PASSWORD:+_}" ]]; then
